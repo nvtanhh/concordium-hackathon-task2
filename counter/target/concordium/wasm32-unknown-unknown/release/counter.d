@@ -1,0 +1,1 @@
+/Users/tanhnv/development/blockchain/hackathon/concordium/task2/counter/target/concordium/wasm32-unknown-unknown/release/counter.wasm: /Users/tanhnv/development/blockchain/hackathon/concordium/task2/counter/src/lib.rs
